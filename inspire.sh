@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Autor: Alexandre de Alencar Moreira Pierre
 # Início: 28 de Agosto de 2015 às 18h56.
